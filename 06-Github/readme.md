@@ -37,6 +37,8 @@ I learned how developers can work on separate feature branches, push their work 
 The collaborative workflow is:
 
 Create Branch → Commit Changes → Push Branch → Open Pull Request → Review → Merge
+
+
 7. Authentication and Security
 I learned about connecting to GitHub using HTTPS or SSH and the importance of protecting credentials. Passwords, personal access tokens, private SSH keys and API keys should never be shared or committed to a repository. I also understood that .gitignore does not remove a secret that has already been committed to Git history.
 

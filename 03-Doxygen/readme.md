@@ -13,10 +13,37 @@ I learned the basic process of using Doxygen:
 - Run Doxygen to generate the documentation.
 - View the generated output, such as html/index.html.
 4. Documentation Comments and Tags
-I explored how documentation comments are written in C/C++/Java and Python. I also learned common tags such as \brief, \param, \return, \author, \version, \see and \note, which describe functions, parameters, return values and related information.
+I explored how documentation comments are written in C/C++/Java and Python. I also learned common tags such as
+ `\brief` – Short description of a function or class.
+- `\param` – Description of function parameters.
+- `\return` – Description of the return value.
+- `\author` – Author information.
+- `\version` – Version information.
+- `\see` – References to related items.
+- `\note` – Additional information
+
 5. Classes, Groups and Diagrams
 I learned that Doxygen can document classes and their member functions, organise related items into groups, and generate diagrams such as call graphs and inheritance diagrams. Graphviz and diagram directives can be used to support visual documentation.
 6. Output Formats and Best Practices
 I explored the different formats Doxygen can generate, including HTML, LaTeX/PDF, RTF, XML, DocBook and man pages. I also learned the importance of clear descriptions, consistent tags, documenting public APIs and keeping documentation updated with code changes.
+
+## Basic Doxygen Example
+
+```cpp
+/**
+ * \brief Adds two integers.
+ *
+ * This function calculates the sum
+ * of two integer values.
+ *
+ * \param a First integer
+ * \param b Second integer
+ * \return Sum of a and b
+ */
+int add(int a, int b) {
+    return a + b;
+}
+---
+
 Key Takeaways
 This topic helped me understand that documentation can be created alongside the code rather than separately. I learned how Doxygen turns code comments into useful reference manuals and how structured comments, diagrams and cross-references make software easier to understand and maintain.

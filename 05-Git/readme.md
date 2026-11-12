@@ -31,5 +31,30 @@ I also learned how .gitignore prevents selected files, such as caches, local con
 I explored how to unstage changes, discard unstaged modifications and safely reverse a previous commit. In particular, I learned the difference between git restore and git revert: restoring can discard local edits, while reverting creates a new commit that reverses an earlier commit.
 6. Branching and Merging
 I learned how branches allow independent development without directly changing the main line of work. I explored creating, listing and switching branches, merging changes and resolving merge conflicts when Git cannot combine edits automatically.
+
+## Important Git Commands
+
+| Command | Purpose |
+|---|---|
+| `git init` | Initialize a repository |
+| `git status` | Check repository status |
+| `git add .` | Stage all changes |
+| `git commit -m "message"` | Create a commit |
+| `git log` | View commit history |
+| `git diff` | Compare changes |
+| `git branch` | List branches |
+| `git switch` | Switch branches |
+| `git merge` | Merge branches |
+| `git stash` | Temporarily save changes |
+| `git restore` | Restore file contents |
+| `git revert` | Reverse a commit |
+| `git clone` | Clone a repository |
+| `git push` | Upload commits |
+| `git pull` | Fetch and integrate updates |
+| `git fetch` | Download remote updates |
+| `git remote -v` | View remote connections |
+| `git tag` | View tags |
+
+
 Key Takeaways
 This topic helped me understand how Git keeps a structured history of a project. I learned to track changes through staging and commits, inspect earlier work, manage branches and handle mistakes or merge conflicts. I also understood why meaningful commit messages and regular reviews are important for maintaining a clean project history.

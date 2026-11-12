@@ -1,4 +1,4 @@
-#LaTeX
+## LaTeX
 
 
 A collection of important LaTeX concepts and code examples learned during the Technical Writing course.

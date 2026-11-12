@@ -10,10 +10,13 @@ I learned that Beamer is a document class specifically designed for preparing pr
 I learned that a Beamer presentation is organised using frames. Each frame represents a slide and can have a title and its own content.
 
 I also explored how separate frames can be used to organise different parts of a presentation, such as a title slide and a slide containing the main points.
+
 3. Adding Bullet Points
 I learned that list environments, such as itemized lists, can be used inside Beamer frames to present key points in a clear and organised way. This makes presentation content easier to follow.
+
 4. Title and Abstract Slides
 I learned how presentation content can be organised into dedicated slides. The lecture explains that, unlike a regular article or report where an abstract environment is used, Beamer can present an abstract on a separate titled frame.
+
 5. Presentation Features
 The lecture introduces some built-in Beamer presentation features, including:
 - Overlays: Help reveal or present content in stages.

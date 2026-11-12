@@ -43,7 +43,8 @@ I explored the different formats Doxygen can generate, including HTML, LaTeX/PDF
 int add(int a, int b) {
     return a + b;
 }
----
+```
+
 
 Key Takeaways
 This topic helped me understand that documentation can be created alongside the code rather than separately. I learned how Doxygen turns code comments into useful reference manuals and how structured comments, diagrams and cross-references make software easier to understand and maintain.

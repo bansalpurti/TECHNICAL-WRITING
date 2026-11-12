@@ -16,43 +16,44 @@ This repository captures my learning journey through important tools. From craft
 *Where content meets precision.*
 
 Exploring the art of creating structured academic and technical documents, with mathematical expressions, tables, figures and professional formatting.
+[LaTeX](./01-latex/readme.md)
 
-[→ Explore LaTeX](./01-laTeX/readme.md)
 
 ### 02. 🎞️ Beamer
 *Ideas transformed into presentations.*
 
 Discovering how LaTeX can turn information into organised, engaging slide-based presentations.
 
-[→ Explore Beamer](./02-Beamer/raedme.md)
+[Beamer](./02-Beamer/readme.md)
+
 
 ### 03. ⚙️ Doxygen
 *Making code speak for itself.*
 
 Understanding how specially written comments can become structured documentation for functions, classes and software projects.
 
-[→ Explore Doxygen](./03-Doxygen/readme.md)
+[Doxygen](./03-Doxygen/readme.md)
 
 ### 04. 💬 Google Docs
 *Writing is better when we work together.*
 
 Discovering collaborative document creation through formatting, comments, suggestions, version history and sharing.
 
-[→ Explore Google Docs](./04-Google_docs/readme.md)
+[Google_docs](./04-Google_docs/readme.md)
 
 ### 05. 🌿 Git
 *Every change has a story.*
 
 Learning how version control keeps track of a project's evolution through commits, branches, merges and change management.
 
-[→ Explore Git](./05-Git/readme.md)
+[Git](./05-Git/readme.md)
 
 ### 06. 🌐 GitHub
 *Building together, one repository at a time.*
 
 Exploring remote repositories, collaboration, pull requests and the workflow that connects developers across projects.
 
-[→ Explore GitHub](./05-Github/readme.md)
+[GitHub](./05-Github/readme.md)
 
 ## 🧩 THE TOOLKIT
 

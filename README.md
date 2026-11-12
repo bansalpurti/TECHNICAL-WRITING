@@ -53,7 +53,7 @@ Learning how version control keeps track of a project's evolution through commit
 
 Exploring remote repositories, collaboration, pull requests and the workflow that connects developers across projects.
 
-[Github](./05-Github/readme.md)
+[Github](./06-Github/readme.md)
 
 ## 🧩 THE TOOLKIT
 
